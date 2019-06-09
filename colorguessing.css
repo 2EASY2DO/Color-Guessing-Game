@@ -19,6 +19,7 @@ button{
     text-transform: uppercase;
     height: 100%;
     transition: all 0.4s;
+    outline: none;
 }
 
 button:hover{
